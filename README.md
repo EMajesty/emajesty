@@ -14,41 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-                         ooMMMMMMMooo
-                       oMMMMMMMMMMMMMMMoo
-                      MMMMMMMMMMMMMMo"MMMo
-                     "MMMMMMMMMMMMMMMMMMMMM
-                     MMMMMMMMMMMMMMMMMMMMMMo
-                     MMMM""MMMMMM"o" MMMMMMM
-                     MMo o" MMM"  oo ""MMMMM
-                     MM MMo MMM" MMoM "MMMMM
-                     MMo"M"o" "" MMM" oMMMMM"
-                     oMM M  o" " o "o MMMMMM"
-                     oM"o " o "  o "o MMMMMMM
-                     oMMoM o " M M "o MMMM"MMo
-                      Mo " M "M "o" o  MMMoMMMo
-                     MMo " "" M "       MMMMMMMo
-                   oMM"   "o o "         MMMMMMMM
-                  MMM"                    MMMMMMMMo
-                oMMMo                     "MMMMMMMMo
-               MMMMM o             "  " o" "MMMMMMMMMo
-              MMMMM          "            " "MMMMMMMMMo
-             oMMMM                          ""MMMMMMMMMo
-            oMMMM         o         o         MMoMMMMMMM
-            MMMM               o              "MMMMMMMMMM
-           MMMM"     o    o             o     "MMMMMMMMMMo
-         oMMMMM                                MMMMMMMMMMo
-         MMM"MM                               "MMM"MMMMMMM
-         MMMMMM           "      o   "         MMMMMMMMMMM
-         "o  "ooo    o                     o o"MMMMMMMMoM"
-        " o "o "MMo       "                o"  MMMMMMMM"
-    o "o" o o "  MMMo                     o o""""MMMM"o" "
- " o "o " o o" "  MMMMoo         "       o "o M"" M "o " "
- "o o"  " o o" " " "MMMM"   o              M o "o" o" o" " o
- M  o M "  o " " " " MM""           o    oMo"o " o o "o " "o "
- o"  o " "o " " M " " o                MMMMo"o " o o o o" o o" "
- o" "o " o " " o o" M "oo         ooMMMMMMM o "o o o " o o o "
- M "o o" o" "o o o " o"oMMMMMMMMMMMMMMMMMMMo" o o "o "o o"
-  "" "o"o"o"o o"o "o"o"oMMMMMMMMMMMMMMMMMMo"o"o "o o"oo"
-        "" M Mo"o"oo"oM"" "               MMoM M M M
-               """ """                      " """ "
+              a8888b.
+             d888888b.
+             8P"YP"Y88
+             8|o||o|88
+             8'    .88
+             8`._.' Y8.
+            d/      `8b.
+           dP   .    Y8b.
+          d8:'  "  `::88b
+         d8"         'Y88b
+        :8P    '      :888
+         8a.   :     _a88P
+       ._/"Yaa_:   .| 88P|
+       \    YP"    `| 8P  `.
+       /     \.___.d|    .'
+       `--..__)8888P`._.'
