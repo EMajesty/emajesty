@@ -14,20 +14,34 @@ Here are some ideas to get you started:
 -->
 
 ```
-         _nnnn_
-        dGGGGMMb
-       @p~qp~~qMb
-       M|@||@) M|
-       @,----.JM|
-      JS^\__/  qKL
-     dZP        qKRb
-    dZP          qKKb
-   fZP            SMMb
-   HZM            MMMM
-   FqM            MMMM
- __| ".        |\dS"qML
- |    `.       | `' \Zq
-_)      \.___.,|     .'
-\____   )MMMMMP|   .'
-     `-'       `--' hjm
+                         __
+                _ww   _a+"D
+         y#,  _r^ # _*^  y`
+        q0 0 a"   W*`    F   ____
+     ;  #^ Mw`  __`. .  4-~~^^`
+    _  _P   ` /'^           `www=.
+  , $  +F    `                q
+  K ]                         ^K`
+, #_                . ___ r    ],
+_*.^            '.__dP^^~#,  ,_ *,
+^b    / _         ``     _F   ]  ]_
+ '___  '               ~~^    ]   [
+ :` ]b_    ~k_               ,`  yl
+   #P        `*a__       __a~   z~`
+   #L     _      ^------~^`   ,/
+    ~-vww*"v_               _/`
+            ^"q_         _x"
+             __#my..___p/`mma____
+         _awP",`,^"-_"^`._ L L  #
+       _#0w_^_^,^r___...._ t [],"w
+      e^   ]b_x^_~^` __,  .]Wy7` x`
+       '=w__^9*$P-*MF`      ^[_.=
+           ^"y   qw/"^_____^~9 t
+             ]_l  ,'^_`..===  x'
+              ">.ak__awwwwWW###r
+                ##WWWWWWWWWWWWWW__
+               _WWWWWWMM#WWWW_JP^"~-=w_
+     .____awwmp_wNw#[w/`     ^#,      ~b___.
+      ` ^^^~^"W___            ]Raaaamw~`^``^^~
+                ^~"~---~~~~~~`
 ```
