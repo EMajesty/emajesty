@@ -33,10 +33,10 @@ Here are some ideas to get you started:
 -->
 ```
  _______
-< kebab >
+( kebab )
  -------
-        \   ^__^
-         \  (OO)\_______
+        o   ^__^
+         o  (OO)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
